@@ -8,3 +8,5 @@
 未实现的：
 1. 解析HttpServletRequest的参数并在需要时传递给自定义方法；解析自定义方法的返回值并包装成HttpServletResponse
 2. 拦截器
+
+<a href="http://ashun.top">欢迎大家来我的博客阅读具体实现思路</a>
